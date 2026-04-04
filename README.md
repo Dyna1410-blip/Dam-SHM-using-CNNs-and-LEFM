@@ -1,7 +1,6 @@
 # Dam Structural Health Monitoring
 ## Deep Learning-Driven Crack Quantification and Remaining Useful Life Prediction
 
-![Pipeline](assets/pipeline.jpg)
 
 > **Paper:** *Deep Learning-Driven Crack Quantification and Remaining Useful Life Prediction for Dam Structural Health Monitoring*
 > Vineet Santosh Bhoir — IIT Kharagpur, Dept. of Industrial and Systems Engineering
