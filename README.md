@@ -2,7 +2,7 @@
 ## Deep Learning-Driven Crack Quantification and Remaining Useful Life Prediction
 
 
-> **Paper:** *Deep Learning-Driven Crack Quantification and Remaining Useful Life Prediction for Dam Structural Health Monitoring*
+>  *Deep Learning-Driven Crack Quantification and Remaining Useful Life Prediction for Dam Structural Health Monitoring*
 > Vineet Santosh Bhoir — IIT Kharagpur, Dept. of Industrial and Systems Engineering
 
 ---
@@ -155,11 +155,11 @@ $$\text{RUL} = \sum \Delta t \quad \text{until} \quad K_I \geq K_{IC}$$
 
 | K₁ / K₁c | Risk Level |
 |-----------|------------|
-| ≥ 1.0 | 🔴 CRITICAL — Immediate action |
-| 0.8 – 1.0 | 🟠 HIGH — Urgent inspection |
-| 0.6 – 0.8 | 🟡 MODERATE — Close monitoring |
-| 0.4 – 0.6 | 🟢 ELEVATED — Routine monitoring |
-| < 0.4 | ✅ LOW — Normal operation |
+| ≥ 1.0 |  CRITICAL — Immediate action |
+| 0.8 – 1.0 |  HIGH — Urgent inspection |
+| 0.6 – 0.8 |  MODERATE — Close monitoring |
+| 0.4 – 0.6 |  ELEVATED — Routine monitoring |
+| < 0.4 |  LOW — Normal operation |
 
 ---
 
@@ -207,4 +207,4 @@ The dataset is released under **CC BY 4.0** by Virginia Tech — please cite the
 
 **Vineet Santosh Bhoir**
 Department of Industrial and Systems Engineering, IIT Kharagpur
-vineetbhoir@kgpian.iitkgp.ac.in
+vineetbhoir325@kgpian.iitkgp.ac.in
