@@ -166,15 +166,12 @@ $$\text{RUL} = \sum \Delta t \quad \text{until} \quad K_I \geq K_{IC}$$
 ## Repository Structure
 
 ```
-dam-shm-crack-rul/
+Dam-SHM-using-CNNs-and-LEFM/
 ├── README.md
 ├── requirements.txt
-├── notebook/
-│   └── Dam_SHM_Final.ipynb
-├── paper/
-│   └── APARM_Paper_v3.docx
-└── assets/
-    └── pipeline.jpg
+├── Dam_SHM_Final.ipynb
+├── APARM_Paper_v2.pdf
+
 ```
 
 ---
