@@ -1,0 +1,29 @@
+# Core numerical & scientific computing
+numpy>=1.23
+scipy>=1.10
+
+# Computer Vision
+opencv-python>=4.8
+
+# Image handling & visualization
+matplotlib>=3.7
+scikit-image>=0.21
+
+# Data handling
+pandas>=2.0
+
+# Machine Learning (future use)
+scikit-learn>=1.3
+
+# Optional deep learning (comment for now if not needed)
+torch>=2.0
+torchvision>=0.15
+
+# Progress bars & utilities
+tqdm>=4.65
+
+# Configuration & logging
+pyyaml>=6.0
+
+# Jupyter (for experiments & plots)
+jupyterlab>=4.0

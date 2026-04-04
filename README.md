@@ -1,1 +1,0 @@
-# Dam-SHM-using-CNNs-and-LEFM
